@@ -1,4 +1,6 @@
 window.GALLERY_DATA = [
+  { id: "SsBfFC4oIIICawx", tw: "", d: "2026-7-30" },
+  { id: "SsaX_EqxvIIsTeC", tw: "", d: "2026-7-30" },
   { id: "SsqmByQoXIIrq6B", tw: "QQQQQQQQQQQQQQQQQQQ", d: "2026-7-26" },
   { id: "SsqmBvPxQII9isA", tw: "QQQQQQQQQQQQQQQQQQQ", d: "2026-7-26" },
   { id: "SsqmBcfoaII7jvn", tw: "QQQQQQQQQQQQQQQQQQQ", d: "2026-7-26" },
