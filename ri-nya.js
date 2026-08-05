@@ -1,5 +1,15 @@
 window.ITEM_DATA = [
   {
+    title:      "東方Projectスタイル'26",
+    date:       "2026-8-5",
+    cat:        "ac",
+    acCollab:   true,
+    id:         "HO7VoBAbgAAP9x6",
+    tweetId:    "2084838562768527742",
+    fashionUrl: "20260805",
+  },
+  
+  {
     title:      "サマースカイシーサイド'26",
     date:       "2026-7-23",
     cat:        "ac",
