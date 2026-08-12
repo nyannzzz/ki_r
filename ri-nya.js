@@ -3,8 +3,8 @@ window.ITEM_DATA = [
     title:      "ルミナスサイバーズ",
     date:       "2026-8-12",
     cat:        "ac",
-    id:         "Sq0W1SWouII0Eka",
-    tweetId:    "KQA4-4EK4EkQQkQEkk4",
+    id:         "HPfYwHYa4AAf56U",
+    tweetId:    "2087375275600605667",
     fashionUrl: "20260812",
   },
   
