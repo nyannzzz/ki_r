@@ -1,4 +1,12 @@
 window.GALLERY_DATA = [
+  { id: "SqxkoGIxnIIDtkS", tw: "", d: "2026-8-15" },
+  { id: "Sq0Rm0JxeIIgBVJ", tw: "", d: "2026-8-15" },
+  { id: "Sq0pn1Ao2IIJALk", tw: "", d: "2026-8-15" },
+  { id: "SqtIJQMxWII9NfX", tw: "", d: "2026-8-15" },
+  { id: "Sq7id8bxWIIiuFm", tw: "", d: "2026-8-15" },
+  { id: "Sq7AKlFoXIPw1TG", tw: "", d: "2026-8-15" },
+  { id: "Sq7hfRhoAIIgDdZ", tw: "", d: "2026-8-15" },
+  { id: "Sqg6Rvjo2IPstmX", tw: "", d: "2026-8-15" },
   { id: "SsBfFC4oIIICawx", tw: "", d: "2026-7-30" },
   { id: "SsaX_EqxvIIsTeC", tw: "", d: "2026-7-30" },
   { id: "SsqmByQoXIIrq6B", tw: "QQQQQQQQQQQQQQQQQQQ", d: "2026-7-26" },
