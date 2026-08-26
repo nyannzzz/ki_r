@@ -1,7 +1,7 @@
 window.ITEM_DATA = [
       {
     title:      "スイートドリームズ",
-    date:       "2026-8-26",
+    date:       "2026-08-26",
     cat:        "ac",
     id:         "HQneyJdaoAAQXQo",
     tweetId:    "2092448457017733269",
@@ -9,7 +9,7 @@ window.ITEM_DATA = [
   },
     {
     title:      "ルミナスサイバーズ",
-    date:       "2026-8-12",
+    date:       "2026-08-12",
     cat:        "ac",
     id:         "HPfYwHYa4AAf56U",
     tweetId:    "2087375275600605667",
@@ -18,7 +18,7 @@ window.ITEM_DATA = [
   
   {
     title:      "東方Projectスタイル'26",
-    date:       "2026-8-5",
+    date:       "2026-08-05",
     cat:        "ac",
     acCollab:   true,
     id:         "HO7VoBAbgAAP9x6",
@@ -28,7 +28,7 @@ window.ITEM_DATA = [
   
   {
     title:      "サマースカイシーサイド'26",
-    date:       "2026-7-23",
+    date:       "2026-07-23",
     cat:        "ac",
     id:         "HNzPIxDaIAAXJ2l",
     tweetId:    "2079764879368683728",
