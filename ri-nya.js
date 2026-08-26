@@ -1,4 +1,12 @@
 window.ITEM_DATA = [
+      {
+    title:      "スイートドリームズ",
+    date:       "2026-8-26",
+    cat:        "ac",
+    id:         "HQneyJdaoAAQXQo",
+    tweetId:    "2092448457017733269",
+    fashionUrl: "20260826",
+  },
     {
     title:      "ルミナスサイバーズ",
     date:       "2026-8-12",
