@@ -1,4 +1,21 @@
 window.ITEM_DATA = [
+  {
+    title:      "ブレイジングマーシャル'26",
+    date:       "2026-09-23",
+    cat:        "ac",
+    id:         "HS3rwWXbcAEpIBG",
+    tweetId:    "2102595818901655634",
+    fashionUrl: "20260923",
+  },
+
+  {
+    title:      "クリエイターズスタイルSep'26",
+    date:       "2026-09-02",
+    cat:        "ac",
+    id:         "HRLjSOSaIAAYrZ3",
+    tweetId:    "2094986680726135055",
+    fashionUrl: "20260902",
+  },
       {
     title:      "スイートドリームズ",
     date:       "2026-08-26",
@@ -47,7 +64,7 @@ window.ITEM_DATA = [
 
   {
     title:      "スタイリッシュサマー'26",
-    date:       "2026-7-15",
+    date:       "2026-07-15",
     cat:        "ac",
     id:         "HNPMAtOaoAA1uoz",
     tweetId:    "2077228169015468096",
