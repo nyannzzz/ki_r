@@ -4,5 +4,5 @@ window.SHORTS_DATA = [
 { id: 't3Ekiz-SHQY', t: 'RUU Dance 2｜イイダンス NGS' },
 { id: 'K_lGRYndKyo', t: 'RUU Z z z' },
 { id: 'NmeC4JGtA_I', t: 'RUU Mo ダンス' },
-{ id: '739ylUOJ3Lk', t: 'RUU ダンス' },
+{ id: 'NM5y3jd43gk', t: 'RUU Dance｜BASS イイダンス' },
 ];
