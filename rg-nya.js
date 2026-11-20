@@ -1,5 +1,13 @@
 // zzz
 window.GALLERY_DATA = [
+  { id: "Sby-KzWxgIIWR5i", tw: "", d: "2026-11-21" },
+  { id: "SbaNOuVoXIIT9Cd", tw: "", d: "2026-11-21" },
+  { id: "SbaNOjvo2IIujue", tw: "", d: "2026-11-21" },
+  { id: "SbHa4JLxeIITvw8", tw: "", d: "2026-11-21" },
+  { id: "SbHa4rRoQIPMtHQ", tw: "", d: "2026-11-21" },
+  { id: "Sbo6WZAx2IPoFBF", tw: "", d: "2026-11-21" },
+  { id: "SbCu1EQoPIIaQDP", tw: "", d: "2026-11-21" },
+  { id: "SbCu1nUofII0j1J", tw: "", d: "2026-11-21" },
   { id: "SNg4Oupo1II47kY", tw: "", d: "2026-11-12" },
   { id: "SNJ-fEZoAIIJHzg", tw: "", d: "2026-11-12" },
   { id: "SNJ-fWko_IIxkT5", tw: "", d: "2026-11-12" },
